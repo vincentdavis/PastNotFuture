@@ -1,0 +1,2 @@
+# PastNotFuture
+Stack trading app
